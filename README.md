@@ -1,2 +1,2 @@
-# The classic Snake game implementation in C#
+# A classic Snake game implementation in C#
 
