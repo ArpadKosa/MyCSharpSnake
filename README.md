@@ -1,2 +1,2 @@
-# repository-test
-This is a test
+# The classic Snake game implementation in C#
+
